@@ -7,7 +7,7 @@ Map of the rooms:
 
 ![enter image description here](https://i.imgur.com/WvPSla6.png)
 
-# Screenshots of the game:
+# Screenshots:
 
 ![enter image description here](https://i.imgur.com/Wf48EuL.png)
 
