@@ -1,7 +1,14 @@
 
 # Lighting System Desciption
 
-Lighting system written in C. Each person passing through the door generates a pulse, which allows us to calculate how many people are currently in the room. If there is a minimum of one person in the room, the light turns on. The system handles the appearance of errors and the handling of all possible movement variations.
+Lighting system written in SystemC. Each person passing through the door generates a pulse, which allows us to calculate how many people are currently in the room. If there is a minimum of one person in the room, the light turns on. The system handles the appearance of errors and the handling of all possible movement variations.
+
+# Compilation command on Linux
+
+```
+g++ -o simulation simulation.cpp -I/usr/local/systemc-2.3.3/include -L/usr/local/systemc-2.3.3/lib-linux64 -lsystemc
+
+```
 
 Map of the rooms:
 
