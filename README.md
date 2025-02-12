@@ -6,7 +6,7 @@ Lighting system written in SystemC. Each person passing through the door generat
 # Compilation command on Linux
 
 ```
-g++ -o simulation simulation.c -I/usr/local/systemc-2.3.3/include -L/usr/local/systemc-2.3.3/lib-linux64 -lsystemc
+g++ -o simulation simulation.cpp -I/usr/local/systemc-2.3.3/include -L/usr/local/systemc-2.3.3/lib-linux64 -lsystemc
 ```
 
 Map of the rooms:
